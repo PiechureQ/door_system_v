@@ -1,0 +1,2 @@
+Simple verilog project
+:w
